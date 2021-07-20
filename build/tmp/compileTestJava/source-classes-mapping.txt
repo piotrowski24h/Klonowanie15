@@ -1,0 +1,6 @@
+com/kodilla/patterns/prototype/library/singleton/LoggerTestSuite.java
+ com.kodilla.patterns.prototype.library.singleton.LoggerTestSuite
+com/kodilla/patterns/prototype/library/LibraryTestSuite.java
+ com.kodilla.patterns.prototype.library.LibraryTestSuite
+com/kodilla/patterns/prototype/library/singleton/LoggerTest.java
+ com.kodilla.patterns.prototype.library.singleton.LoggerTest
