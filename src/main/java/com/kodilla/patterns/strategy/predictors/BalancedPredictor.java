@@ -1,2 +1,5 @@
-package com.kodilla.patterns.strategy.predictors;public class BalancedPredictor {
+package com.kodilla.patterns.strategy.predictors;
+
+public class BalancedPredictor {
+
 }
