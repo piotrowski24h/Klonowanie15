@@ -1,5 +1,7 @@
 com/kodilla/patterns/enums/hotel/PriceList.java
  com.kodilla.patterns.enums.hotel.PriceList
+com/kodilla/patterns/strategy/builder/checkers/Figure.java
+ com.kodilla.patterns.strategy.builder.checkers.Figure
 com/kodilla/patterns/strategy/IndividualCustomer.java
  com.kodilla.patterns.strategy.IndividualCustomer
 com/kodilla/patterns/strategy/social/SocialPublisher.java
@@ -14,24 +16,36 @@ com/kodilla/patterns/strategy/social/Millenials.java
  com.kodilla.patterns.strategy.social.Millenials
 com/kodilla/patterns/strategy/social/YGeneration.java
  com.kodilla.patterns.strategy.social.YGeneration
+com/kodilla/patterns/strategy/factory/tasks/ShoppingTask.java
+ com.kodilla.patterns.strategy.factory.tasks.ShoppingTask
 com/kodilla/patterns/strategy/social/TwitterPublisher.java
  com.kodilla.patterns.strategy.social.TwitterPublisher
 com/kodilla/patterns/strategy/IndividualYoungCustomer.java
  com.kodilla.patterns.strategy.IndividualYoungCustomer
 com/kodilla/patterns/strategy/social/ZGeneration.java
  com.kodilla.patterns.strategy.social.ZGeneration
+com/kodilla/patterns/strategy/builder/checkers/Pawn.java
+ com.kodilla.patterns.strategy.builder.checkers.Pawn
 com/kodilla/patterns/prototype/library/Book.java
  com.kodilla.patterns.prototype.library.Book
 com/kodilla/patterns/strategy/factory/Shape.java
  com.kodilla.patterns.strategy.factory.Shape
+com/kodilla/patterns/strategy/builder/checkers/FigureFactory.java
+ com.kodilla.patterns.strategy.builder.checkers.FigureFactory
+com/kodilla/patterns/strategy/factory/tasks/PaintingTask.java
+ com.kodilla.patterns.strategy.factory.tasks.PaintingTask
 com/kodilla/patterns/strategy/social/User.java
  com.kodilla.patterns.strategy.social.User
+com/kodilla/patterns/strategy/factory/tasks/DrivingTask.java
+ com.kodilla.patterns.strategy.factory.tasks.DrivingTask
 com/kodilla/patterns/strategy/social/SnapchatPublisher.java
  com.kodilla.patterns.strategy.social.SnapchatPublisher
 com/kodilla/patterns/strategy/factory/ShapeFactory.java
  com.kodilla.patterns.strategy.factory.ShapeFactory
 com/kodilla/patterns/enums/hotel/HotelApp.java
  com.kodilla.patterns.enums.hotel.HotelApp
+com/kodilla/patterns/strategy/builder/pizza/Pizza.java
+ com.kodilla.patterns.strategy.builder.pizza.Pizza
 com/kodilla/patterns/strategy/predictors/ConservativePredictor.java
  com.kodilla.patterns.strategy.predictors.ConservativePredictor
 com/kodilla/patterns/strategy/factory/Square.java
@@ -46,21 +60,20 @@ com/kodilla/patterns/strategy/factory/Circle.java
  com.kodilla.patterns.strategy.factory.Circle
 com/kodilla/patterns/strategy/predictors/AggressivePredictor.java
  com.kodilla.patterns.strategy.predictors.AggressivePredictor
+com/kodilla/patterns/strategy/builder/bigMac/Bigmac.java
+ com.kodilla.patterns.strategy.builder.bigMac.Bigmac
+ com.kodilla.patterns.strategy.builder.bigMac.Bigmac$BigmacBuilder
 com/kodilla/patterns/strategy/social/FacebookPublisher.java
  com.kodilla.patterns.strategy.social.FacebookPublisher
 com/kodilla/patterns/strategy/BuyPredictor.java
  com.kodilla.patterns.strategy.BuyPredictor
+com/kodilla/patterns/strategy/factory/tasks/Task.java
+ com.kodilla.patterns.strategy.factory.tasks.Task
 com/kodilla/patterns/prototype/library/LibraryMain.java
  com.kodilla.patterns.prototype.library.LibraryMain
 com/kodilla/patterns/strategy/factory/Rectangle.java
  com.kodilla.patterns.strategy.factory.Rectangle
-com/kodilla/patterns/strategy/factory/tasks/PaintingTask.java
- com.kodilla.patterns.strategy.factory.tasks.PaintingTask
-com/kodilla/patterns/strategy/factory/tasks/DrivingTask.java
- com.kodilla.patterns.strategy.factory.tasks.DrivingTask
-com/kodilla/patterns/strategy/factory/tasks/ShoppingTask.java
- com.kodilla.patterns.strategy.factory.tasks.ShoppingTask
+com/kodilla/patterns/strategy/builder/checkers/Queen.java
+ com.kodilla.patterns.strategy.builder.checkers.Queen
 com/kodilla/patterns/strategy/factory/tasks/TaskFactory.java
  com.kodilla.patterns.strategy.factory.tasks.TaskFactory
-com/kodilla/patterns/strategy/factory/tasks/Task.java
- com.kodilla.patterns.strategy.factory.tasks.Task

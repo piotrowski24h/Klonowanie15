@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.kodilla.patterns.prototype.factory.task.TaskFactoryTestSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-28T17:09:06" hostname="DELL" time="0.019">
+<testsuite name="com.kodilla.patterns.prototype.factory.task.TaskFactoryTestSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-04T15:49:14" hostname="DELL" time="0.022">
   <properties/>
-  <testcase name="assertThatTaskWasNotExecuted()" classname="com.kodilla.patterns.prototype.factory.task.TaskFactoryTestSuite" time="0.019"/>
-  <system-out><![CDATA[]]></system-out>
+  <testcase name="assertThatIsExecutedCorrectlyShoping()" classname="com.kodilla.patterns.prototype.factory.task.TaskFactoryTestSuite" time="0.022"/>
+  <system-out><![CDATA[Zadanie przekazane do realizacji:SpoĹĽywcze
+]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

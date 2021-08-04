@@ -1,10 +1,14 @@
-com/kodilla/patterns/prototype/library/singleton/LoggerTest.java
- com.kodilla.patterns.prototype.library.singleton.LoggerTest
-com/kodilla/patterns/prototype/library/singleton/LoggerTestSuite.java
- com.kodilla.patterns.prototype.library.singleton.LoggerTestSuite
-com/kodilla/patterns/prototype/library/LibraryTestSuite.java
- com.kodilla.patterns.prototype.library.LibraryTestSuite
 com/kodilla/patterns/prototype/strategy/social/UserTestSuite.java
  com.kodilla.patterns.prototype.strategy.social.UserTestSuite
+com/kodilla/patterns/prototype/library/singleton/LoggerTestSuite.java
+ com.kodilla.patterns.prototype.library.singleton.LoggerTestSuite
+com/kodilla/patterns/builder/pizza/PizzaTestSuite.java
+ com.kodilla.patterns.builder.pizza.PizzaTestSuite
+com/kodilla/patterns/prototype/library/LibraryTestSuite.java
+ com.kodilla.patterns.prototype.library.LibraryTestSuite
+com/kodilla/patterns/builder/bigmac/BigmacTestSuite.java
+ com.kodilla.patterns.builder.bigmac.BigmacTestSuite
+com/kodilla/patterns/prototype/library/singleton/LoggerTest.java
+ com.kodilla.patterns.prototype.library.singleton.LoggerTest
 com/kodilla/patterns/prototype/factory/task/TaskFactoryTestSuite.java
  com.kodilla.patterns.prototype.factory.task.TaskFactoryTestSuite

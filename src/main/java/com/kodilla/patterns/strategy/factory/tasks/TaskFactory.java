@@ -11,7 +11,7 @@ public class TaskFactory {
             case DRIVING_TASK:
                 return new DrivingTask("Przyjazd", "Do magazynu", "IVECO");
             case PAINTING_TASK:
-                return new PaintingTask("Malowanie ", "biały", "kuchnia");
+                return new PaintingTask("Malowanie", "biały", "kuchnia");
             case SHOPPING_TASK:
                 return new ShoppingTask("Spożywcze", "Wino", 10);
             default:
